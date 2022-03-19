@@ -1,0 +1,7 @@
+### IntelliJ IDEA ###
+.idea
+.input
+out
+*.iws
+*.iml
+*.ipr
