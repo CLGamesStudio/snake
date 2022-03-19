@@ -1,3 +1,3 @@
 # snake
 You can download the newest or oldest version from
-Our site samvelsite.beget.tech !
+Our <a href="http://samvelsite.beget.tech">site</a>  !
